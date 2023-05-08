@@ -1,0 +1,19 @@
+Admin activated yes 
+Admin admin yes 
+Admin email admin@email.com 
+Admin icon .\pictures\rapper.png 
+Admin password admin 
+Provider activated yes 
+Provider email provider@email.com 
+Provider icon .\pictures\cowboy.png 
+Provider password provider 
+Provider provider yes 
+User activated yes 
+User email user@email.com 
+User icon .\pictures\punk.png 
+User password user 
+stellawantsadaddy activated yes 
+stellawantsadaddy email mpozoudistella@gmail.com 
+stellawantsadaddy icon C:\Users\gio20\Pictures\pmeessss\PICT0002 (1).JPG 
+stellawantsadaddy password daddyplease 
+stellawantsadaddy provider yes 

@@ -1,0 +1,98 @@
+240557 location Why do you care 
+240557 m2 9999 
+240557 name You're too POOR 
+240557 owner Provider 
+240557 parking yes 
+240557 pool yes 
+240557 price 9999 
+240557 type SOOO big 
+240557 wifi yes 
+259179 icon .\pictures\camp.png 
+259179 location Chorefto Pilio Volos Greece 
+259179 m2 1 
+259179 name Chorefto Camping 
+259179 owner Provider 
+259179 parking no 
+259179 pool no 
+259179 price 18 
+259179 type Camp 
+259179 wifi yes 
+560287 icon .\pictures\appartment.png 
+560287 location Thessaloniki Greece 
+560287 m2 50 
+560287 name My House 
+560287 owner Provider 
+560287 parking no 
+560287 pool no 
+560287 price 400 
+560287 type Appartment 
+560287 wifi yes 
+585800 icon .\pictures\farm.png 
+585800 location Alpes 
+585800 m2 200 
+585800 name Fluffy Cow Ranch 
+585800 owner Provider 
+585800 parking yes 
+585800 pool no 
+585800 price 100 
+585800 type Ranch 
+585800 wifi no 
+637500 icon C:\Users\gio20\Documents\Projects\OOP\mybooking-baziopoulos-kai-androulaki\pictures\appartment.png 
+637500 location Kavalara 
+637500 m2 189 
+637500 name Emo asf 
+637500 owner stellawantsadaddy 
+637500 parking yes 
+637500 pool yes 
+637500 price 15 
+637500 type Mansion 
+637500 wifi yes 
+683144 icon .\pictures\motel.png 
+683144 location Los Angeles California USA 
+683144 m2 1000 
+683144 name Hotel California 
+683144 owner Provider 
+683144 parking yes 
+683144 pool yes 
+683144 price 2000 
+683144 type Hotel 
+683144 wifi no 
+751764 location fljdsj 
+751764 m2 123 
+751764 name ksdlfjjl 
+751764 owner Provider 
+751764 parking no 
+751764 pool no 
+751764 price 123 
+751764 type ldfjsdl 
+751764 wifi no 
+765045 icon .\pictures\hotel.png 
+765045 location New York USA 
+765045 m2 100 
+765045 name Cerci Hotel 
+765045 owner Provider 
+765045 parking yes 
+765045 pool yes 
+765045 price 40 
+765045 type Hotel 
+765045 wifi yes 
+920443 icon .\pictures\luxury hotel.png 
+920443 location Kalamaria Thessaloniki Greece 
+920443 m2 20 
+920443 name Kalamaria Palace 
+920443 owner Provider 
+920443 parking no 
+920443 pool no 
+920443 price 100 
+920443 type Luxury Hotel 
+920443 wifi yes 
+997920 icon .\pictures\appartment.png 
+997920 location London UK 
+997920 m2 200 
+997920 name Big Appartment 
+997920 owner Provider 
+997920 parking yes 
+997920 pool yes 
+997920 price 1500 
+997920 type Appartment 
+997920 wifi yes 
